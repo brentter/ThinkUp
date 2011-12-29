@@ -14,3 +14,5 @@ extras/scripts/migratedb-conf
 extras/scripts/lic_header.py
 webapp/test_installer/*
 build/*
+
+webapp/timeline/style.css
